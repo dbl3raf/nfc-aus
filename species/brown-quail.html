@@ -1,81 +1,186 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Brown Quail</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Brown Quail</title>
 
 <style>
-
 body{
     font-family: Arial, sans-serif;
-    line-height:1.6;
-    max-width:1000px;
-    margin:40px auto;
-    padding:0 20px;
-    background:#fafafa;
+    line-height: 1.6;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+    background: #fafafa;
+    color: #222;
 }
 
 h1{
-    font-size:2.2rem;
+    font-size: 2.2rem;
+    margin-bottom: 0.2rem;
 }
 
 h2{
-    margin-top:2.5rem;
-    border-bottom:2px solid #ddd;
-    padding-bottom:4px;
+    margin-top: 2.5rem;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 4px;
 }
 
-.example{
-    background:white;
-    padding:18px;
-    margin:25px 0;
-    border-radius:6px;
-    box-shadow:0 1px 4px rgba(0,0,0,0.08);
-    max-width:800px;
-}
-
-img{
-    width:100%;
-    max-width:800px;
-    height:auto;
-    display:block;
-    margin-top:10px;
-}
-
-audio{
-    width:100%;
-    max-width:800px;
-    margin-top:10px;
+h3{
+    margin-top: 1.2rem;
 }
 
 a{
-    color:#2a6db0;
-    text-decoration:none;
+    color: #2a6db0;
+    text-decoration: none;
 }
 
 a:hover{
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
+.example{
+    background: white;
+    padding: 18px;
+    margin: 25px auto;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    max-width: 820px;
+}
+
+.spec-player{
+    max-width: 820px;
+}
+
+.spec-wrap{
+    position: relative;
+    width: 100%;
+    max-width: 820px;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.spec-wrap img{
+    width: 100%;
+    max-width: 820px;
+    height: auto;
+    display: block;
+    margin: 10px 0 12px 0;
+    border-radius: 4px;
+}
+
+.playhead{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 2px;
+    background: #ff2d55;
+    box-shadow: 0 0 4px rgba(255,45,85,0.8);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.12s ease;
+}
+
+audio{
+    display: block;
+    width: 100%;
+    max-width: 820px;
+    margin-top: 8px;
+}
+
+.caption{
+    margin-top: 0.35rem;
+    font-style: italic;
+}
+
+.backlink{
+    margin-bottom: 1.5rem;
+}
 </style>
 
 </head>
 <body>
-<p><a href="../index.html">← Back to library</a></p>
+<p class="backlink"><a href="../index.html">← Back to library</a></p>
 <h1>Brown Quail</h1>
 <h2>Brown Quail two note upward</h2>
 <div class="example">
-<img src="../assets/brown-quail/brown-quail_01.png">
-<audio controls preload="none"><source src="../assets/brown-quail/brown-quail_01.mp3" type="audio/mpeg"></audio>
+<h3>Example 1</h3>
+<div class="spec-player">
+<div class="spec-wrap">
+<img src="../assets/brown-quail/brown-quail_01.png" alt="Brown Quail two note upward example 1">
+<div class="playhead"></div>
+</div>
+<audio controls preload="metadata"><source src="../assets/brown-quail/brown-quail_01.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<div class="caption">Example 1</div>
+</div>
 </div>
 <div class="example">
-<img src="../assets/brown-quail/brown-quail_02.png">
-<audio controls preload="none"><source src="../assets/brown-quail/brown-quail_02.mp3" type="audio/mpeg"></audio>
+<h3>Example 2</h3>
+<div class="spec-player">
+<div class="spec-wrap">
+<img src="../assets/brown-quail/brown-quail_02.png" alt="Brown Quail two note upward example 2">
+<div class="playhead"></div>
+</div>
+<audio controls preload="metadata"><source src="../assets/brown-quail/brown-quail_02.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<div class="caption">Example 2</div>
+</div>
 </div>
 <div class="example">
-<img src="../assets/brown-quail/brown-quail_03.png">
-<audio controls preload="none"><source src="../assets/brown-quail/brown-quail_03.mp3" type="audio/mpeg"></audio>
+<h3>Example 3</h3>
+<div class="spec-player">
+<div class="spec-wrap">
+<img src="../assets/brown-quail/brown-quail_03.png" alt="Brown Quail two note upward example 3">
+<div class="playhead"></div>
 </div>
+<audio controls preload="metadata"><source src="../assets/brown-quail/brown-quail_03.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<div class="caption">Example 3</div>
+</div>
+</div>
+
+<script>
+(function () {
+  const blocks = document.querySelectorAll(".spec-player");
+
+  blocks.forEach((block) => {
+    const audio = block.querySelector("audio");
+    const wrap = block.querySelector(".spec-wrap");
+    const line = block.querySelector(".playhead");
+
+    if (!audio || !wrap || !line) return;
+
+    function updatePlayhead() {
+      if (!audio.duration || !isFinite(audio.duration)) {
+        line.style.left = "0px";
+        return;
+      }
+      const frac = Math.max(0, Math.min(1, audio.currentTime / audio.duration));
+      const width = wrap.clientWidth;
+      line.style.left = `${frac * width}px`;
+    }
+
+    function resetPlayhead() {
+      line.style.left = "0px";
+      line.style.opacity = "0";
+    }
+
+    audio.addEventListener("play", () => {
+      line.style.opacity = "1";
+      updatePlayhead();
+    });
+
+    audio.addEventListener("pause", updatePlayhead);
+    audio.addEventListener("timeupdate", updatePlayhead);
+    audio.addEventListener("seeked", updatePlayhead);
+    audio.addEventListener("loadedmetadata", resetPlayhead);
+    audio.addEventListener("ended", resetPlayhead);
+    window.addEventListener("resize", updatePlayhead);
+
+    resetPlayhead();
+  });
+})();
+</script>
+
 </body>
 </html>
