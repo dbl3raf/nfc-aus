@@ -9,38 +9,47 @@
 
 body{
     font-family: Arial, sans-serif;
-    line-height:1.6;
+    line-height:1.55;
     max-width:1000px;
-    margin:40px auto;
-    padding:0 20px;
+    margin:24px auto;
+    padding:0 20px 36px 20px;
     background:#fafafa;
     color:#222;
 }
 
 h1{
-    font-size:2.2rem;
-    margin-bottom:0.3rem;
+    font-size:2rem;
+    margin:0 0 0.15rem 0;
 }
 
 h2{
-    margin-top:2.8rem;
+    margin-top:2rem;
     border-bottom:2px solid #ddd;
     padding-bottom:4px;
 }
 
 h3{
-    margin-top:1.6rem;
-    margin-bottom:0.4rem;
-    font-size:1.05rem;
+    margin-top:1rem;
+    margin-bottom:0.35rem;
+    font-size:1rem;
+}
+
+.page-toplink{
+    margin:0 0 0.75rem 0;
+}
+
+.species-subtitle{
+    margin:0 0 1rem 0;
+    color:#555;
 }
 
 .calltype-block{
-    margin-top:2rem;
+    margin-top:1.4rem;
 }
 
 .evidence-badge{
     display:inline-block;
-    font-size:0.85rem;
+    font-size:0.82rem;
     padding:3px 10px;
     border-radius:999px;
     background:#e8eef7;
@@ -51,17 +60,25 @@ h3{
 
 .comparison-panel{
     background:white;
-    padding:18px;
-    margin:18px 0 22px 0;
+    padding:14px 16px;
+    margin:14px 0 18px 0;
     border-radius:6px;
     box-shadow:0 1px 4px rgba(0,0,0,0.08);
-    max-width:900px;
+    max-width:760px;
+}
+
+.comparison-panel img{
+    width:100%;
+    max-width:520px;
+    height:auto;
+    display:block;
+    margin-top:8px;
 }
 
 .example{
     background:white;
-    padding:18px;
-    margin:25px 0;
+    padding:14px 16px;
+    margin:16px 0;
     border-radius:6px;
     box-shadow:0 1px 4px rgba(0,0,0,0.08);
     max-width:900px;
@@ -72,26 +89,27 @@ h3{
 }
 
 .example-caption{
-    margin-top:0;
+    margin:0 0 0.35rem 0;
     font-weight:bold;
-    font-size:1.05rem;
+    font-size:1rem;
 }
 
 .section-text{
     color:#333;
     max-width:850px;
+    margin:0.35rem 0;
 }
 
 .example-meta{
-    font-size:0.92rem;
+    font-size:0.9rem;
     color:#555;
-    margin-top:12px;
+    margin-top:10px;
     margin-bottom:0;
 }
 
 .example-notes{
     color:#444;
-    margin-top:14px;
+    margin-top:10px;
     margin-bottom:0;
 }
 
@@ -100,13 +118,13 @@ img{
     max-width:800px;
     height:auto;
     display:block;
-    margin-top:10px;
+    margin-top:8px;
 }
 
 audio{
     width:100%;
     max-width:800px;
-    margin-top:10px;
+    margin-top:8px;
 }
 
 a{
@@ -120,7 +138,7 @@ a:hover{
 
 .badge{
     display:inline-block;
-    font-size:0.85rem;
+    font-size:0.82rem;
     padding:2px 8px;
     border-radius:999px;
     background:#f0e1a1;
@@ -138,9 +156,9 @@ a:hover{
 
 </head>
 <body>
-<p><a href="../index.html">← Back to library</a></p>
+<p class="page-toplink"><a href="../index.html">← Back to library</a></p>
 <h1>Brown Quail</h1>
-<p><em>Synoicus ypsilophorus</em></p>
+<p class="species-subtitle"><em>Synoicus ypsilophorus</em></p>
 <div class="calltype-block">
 <h2>Brown Quail ONE-SHORT <span class="evidence-badge">Probable</span></h2>
 <h3>Putative nocturnal call type</h3>
@@ -172,10 +190,6 @@ a:hover{
 <p class="section-text">This is not the classic TWO-NOTE WHISTLE described in HANZAB, which is a territorial call comprising a short note and then a long rising note; instead this call is two short whistles of roughly similar length. It is commonly given in the daytime and is well known. Still need to work out what name to give to this call. It is the only recognisable Brown Quail vocalisation so far heard in Aus NFC study.</p>
 <h3>Evidence for identification</h3>
 <p class="section-text">Main elements at 3kHz match reference calls, occuring in two hump-shaped components, harmonic structure matches reference calls (including a lower harmonic at 1.5kHz), and duration is similar.</p>
-<div class="comparison-panel">
-<h3>Reference comparison</h3>
-<img src="../assets/comparisons/call_type_4_comparison.png" alt="Reference comparison for Brown Quail TWO-SHORT">
-</div>
 <h3>Confidence statement</h3>
 <p class="section-text">Sounds very similar to several recordings from XC and Macaulay. Comparison image shows strong match (see comparison image)</p>
 <h3>Similar species / confusion risks</h3>
@@ -198,6 +212,10 @@ a:hover{
 <img src="../assets/call_type_4/call_type_4_03.png" alt="Very faint example to show how apparently far away these calls can be detected.">
 <audio controls preload="none"><source src="../assets/call_type_4/call_type_4_03.mp3" type="audio/mpeg"></audio>
 <p class="example-meta">Delaney Circuit (<a href="https://www.google.com/maps?q=-27.521486359554316,153.110805818142" target="_blank" rel="noopener noreferrer">-27.52149, 153.11081</a>), 09 Mar 2023, 03:24:59, Annotation 146</p>
+</div>
+<div class="comparison-panel">
+<h3>Reference comparison</h3>
+<img src="../assets/comparisons/call_type_4_comparison.png" alt="Reference comparison for Brown Quail TWO-SHORT">
 </div>
 </div>
 </body>
