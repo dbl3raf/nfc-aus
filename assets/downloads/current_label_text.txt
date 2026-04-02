@@ -1,0 +1,78 @@
+high|australian wood duck
+high|bittern-like whou
+high|black-fronted dotterel contact call
+high|brown quail down-up
+high|brown quail one-short
+high|brown quail two-short
+high|brown quail-like low
+high|buff-banded rail preenk
+high|buff-banded rail squeak
+high|bush stone-curlew
+high|bush-hen piping
+high|cbc piping
+high|cbc screech
+high|chup chup chup
+high|downwards pew
+high|dusky moorhen
+high|fan-tailed cuckoo (prob) tremulous call
+high|forest kingfisher high rolling call
+high|forest kingfisher high rolling call
+high|galah chet call
+high|goose-like honk
+high|grey butcherbird territorial song
+high|grey shrikethrush-like low downward peep
+high|high bbra-like
+high|high creak
+high|high-pitched up-down
+high|kingfisher-like trill
+high|laughing kookaburra laugh
+high|lewin's rail kek
+high|little bronze-cuckoo whistling call
+high|low buff-banded rail-like
+high|low bittern-like
+high|low liquid preep
+high|low downward pew
+high|low down-up
+high|low squark
+high|low fast piping
+high|low whistle
+high|masked lapwing
+high|moorhen-like squark
+high|moorhen-like screech
+high|n-shaped whistle
+high|noisy miner
+high|noisy pitta two-note whistle
+high|pacific black duck raehb
+high|pacific black duck wingbeats
+high|pacific koel coo-ee
+high|pacific koel keek
+high|pew pew pew
+high|pied butcherbird day song
+high|pied stilt yelp
+high|possum or tyto
+high|rallid-like screech
+high|rhythmic whew
+high|rock dove advertising call
+high|rufous whistler single-note call
+high|sacred kingfisher staccato call
+high|shining bronze-cuckoo call
+high|silvereye linear call
+high|squark at 2500
+high|tet tet tet
+high|tick at 5khz
+high|torresian crow territorial call
+high|torresian crow warble
+high|triple peep
+high|up-down warble at 4k
+high|plumed whistling-duck whistle
+high|upwards pew
+high|upwards trill
+high|weird warble
+high|whistle down then up
+high|whistle stepping up
+high|whistler-like down then upslur
+high|willie wagtail song
+high|wingbeats
+zero|asian house gecko
+zero|common brushtail possum
+zero|flying-fox sp
