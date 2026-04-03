@@ -14,6 +14,7 @@ high|cbc piping
 high|cbc screech
 high|chup chup chup
 high|downwards pew
+high|down-then-down-again-or-flying-fox
 high|dusky moorhen
 high|fan-tailed cuckoo chireee
 high|forest kingfisher high rolling call
