@@ -1,4 +1,5 @@
 high|australian wood duck
+high|australian wood duck wingbeats
 high|bittern-like whou
 high|black-fronted dotterel contact call
 high|brown quail down-up
@@ -14,31 +15,31 @@ high|cbc screech
 high|chup chup chup
 high|downwards pew
 high|dusky moorhen
-high|fan-tailed cuckoo (prob) tremulous call
-high|forest kingfisher high rolling call
+high|fan-tailed cuckoo chireee
 high|forest kingfisher high rolling call
 high|galah chet call
 high|goose-like honk
 high|grey butcherbird territorial song
-high|grey shrikethrush-like low downward peep
+high|grey shrikethrush clear call
 high|high bbra-like
 high|high creak
 high|high-pitched up-down
 high|kingfisher-like trill
+high|koel-like stilt-like
 high|laughing kookaburra laugh
 high|lewin's rail kek
 high|little bronze-cuckoo whistling call
-high|low buff-banded rail-like
 high|low bittern-like
-high|low liquid preep
-high|low downward pew
+high|low buff-banded rail-like
 high|low down-up
-high|low squark
+high|low downward pew
 high|low fast piping
+high|low liquid preep
+high|low squark
 high|low whistle
 high|masked lapwing
-high|moorhen-like squark
 high|moorhen-like screech
+high|moorhen-like squark
 high|n-shaped whistle
 high|noisy miner
 high|noisy pitta two-note whistle
@@ -49,14 +50,18 @@ high|pacific koel keek
 high|pew pew pew
 high|pied butcherbird day song
 high|pied stilt yelp
+high|plumed whistling-duck whistle
 high|possum or tyto
 high|rallid-like screech
 high|rhythmic whew
 high|rock dove advertising call
 high|rufous whistler single-note call
 high|sacred kingfisher staccato call
+high|sacred kingfisher-like soft call
+high|sahul brush cuckoo churrrt
 high|shining bronze-cuckoo call
 high|silvereye linear call
+high|slow deep brown quail-like
 high|squark at 2500
 high|tet tet tet
 high|tick at 5khz
@@ -64,15 +69,18 @@ high|torresian crow territorial call
 high|torresian crow warble
 high|triple peep
 high|up-down warble at 4k
-high|plumed whistling-duck whistle
 high|upwards pew
 high|upwards trill
 high|weird warble
+high|wheeuw
 high|whistle down then up
 high|whistle stepping up
 high|whistler-like down then upslur
+high|whistler-like short
 high|willie wagtail song
 high|wingbeats
+high|wonga pigeon-like
 zero|asian house gecko
 zero|common brushtail possum
+zero|dog bark
 zero|flying-fox sp
