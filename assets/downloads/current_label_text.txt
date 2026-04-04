@@ -24,6 +24,7 @@ high|grey butcherbird territorial song
 high|grey shrikethrush clear call
 high|high bbra-like
 high|high creak
+high|high cheep
 high|high-pitched up-down
 high|kingfisher-like trill
 high|koel-like stilt-like
