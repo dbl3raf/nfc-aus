@@ -25,6 +25,8 @@ high|grey shrikethrush clear call
 high|high bbra-like
 high|high creak
 high|high cheep
+high|high chip
+high|high whirring
 high|high-pitched up-down
 high|kingfisher-like trill
 high|koel-like stilt-like
@@ -36,6 +38,7 @@ high|low buff-banded rail-like
 high|low down-up
 high|low downward pew
 high|low fast piping
+high|low hoot
 high|low liquid preep
 high|low squark
 high|low whistle
@@ -49,6 +52,7 @@ high|pacific black duck raehb
 high|pacific black duck wingbeats
 high|pacific koel coo-ee
 high|pacific koel keek
+high|petulant chuckle
 high|pew pew pew
 high|pied butcherbird day song
 high|pied stilt yelp
@@ -86,3 +90,4 @@ zero|asian house gecko
 zero|common brushtail possum
 zero|dog bark
 zero|flying-fox sp
+zero|insect
