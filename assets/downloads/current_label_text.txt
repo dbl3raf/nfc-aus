@@ -1,5 +1,7 @@
+high|australian boobook boobook call
 high|australian wood duck
 high|australian wood duck wingbeats
+high|eastern barn owl-like
 high|bittern-like whou
 high|black-fronted dotterel contact call
 high|brown quail down-up
@@ -10,12 +12,14 @@ high|buff-banded rail preenk
 high|buff-banded rail squeak
 high|bush stone-curlew
 high|bush-hen piping
+high|button-quail-like
 high|cbc piping
 high|cbc screech
 high|chup chup chup
 high|downwards pew
 high|down-then-down-again-or-flying-fox
 high|dusky moorhen
+high|eastern barn owl-like
 high|fan-tailed cuckoo chireee
 high|forest kingfisher high rolling call
 high|galah chet call
@@ -40,8 +44,10 @@ high|low downward pew
 high|low fast piping
 high|low hoot
 high|low liquid preep
+high|low rising chirp
 high|low squark
 high|low whistle
+high|magpie goose honk
 high|masked lapwing
 high|moorhen-like screech
 high|moorhen-like squark
@@ -60,6 +66,7 @@ high|plumed whistling-duck whistle
 high|possum or tyto
 high|rallid-like screech
 high|rhythmic whew
+high|rising chirp
 high|rock dove advertising call
 high|rufous whistler single-note call
 high|sacred kingfisher staccato call
