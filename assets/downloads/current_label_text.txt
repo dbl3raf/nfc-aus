@@ -39,6 +39,7 @@ high|lewin's rail kek
 high|little bronze-cuckoo whistling call
 high|low bittern-like
 high|low buff-banded rail-like
+high|low disyllabic
 high|low down-up
 high|low downward pew
 high|low fast piping
@@ -73,6 +74,7 @@ high|sacred kingfisher staccato call
 high|sacred kingfisher-like soft call
 high|sahul brush cuckoo churrrt
 high|shining bronze-cuckoo call
+high|shorebird-like mewing
 high|silvereye linear call
 high|slow deep brown quail-like
 high|squark at 2500
@@ -82,6 +84,7 @@ high|torresian crow territorial call
 high|torresian crow warble
 high|triple peep
 high|up-down warble at 4k
+high|upslur
 high|upwards pew
 high|upwards trill
 high|weird warble
@@ -97,4 +100,5 @@ zero|asian house gecko
 zero|common brushtail possum
 zero|dog bark
 zero|flying-fox sp
+zero|human voice
 zero|insect
