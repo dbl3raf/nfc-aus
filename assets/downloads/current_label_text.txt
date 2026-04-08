@@ -37,6 +37,7 @@ high|koel-like stilt-like
 high|laughing kookaburra laugh
 high|lewin's rail kek
 high|little bronze-cuckoo whistling call
+high|little friarbird call
 high|low bittern-like
 high|low buff-banded rail-like
 high|low disyllabic
