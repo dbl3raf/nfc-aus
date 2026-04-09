@@ -30,6 +30,7 @@ high|high bbra-like
 high|high creak
 high|high cheep
 high|high chip
+high|high double pip
 high|high whirring
 high|high-pitched up-down
 high|jagged m
@@ -101,6 +102,7 @@ high|wonga pigeon-like
 zero|asian house gecko
 zero|common brushtail possum
 zero|dog bark
+zero|domestic cat
 zero|flying-fox sp
 zero|human voice
 zero|insect
