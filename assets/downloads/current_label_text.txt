@@ -4,6 +4,7 @@ high|australian wood duck wingbeats
 high|eastern barn owl-like
 high|bittern-like whou
 high|black-fronted dotterel contact call
+high|brief pied butcherbird-like
 high|brown quail down-up
 high|brown quail one-short
 high|brown quail two-short
@@ -31,6 +32,7 @@ high|high creak
 high|high cheep
 high|high chip
 high|high double pip
+high|high twitter
 high|high whirring
 high|high-pitched up-down
 high|jagged m
@@ -76,11 +78,14 @@ high|rufous whistler single-note call
 high|sacred kingfisher staccato call
 high|sacred kingfisher-like soft call
 high|sahul brush cuckoo churrrt
+high|scratchy rasp ibis-like
 high|shining bronze-cuckoo call
 high|shorebird-like mewing
+high|shorebird-like soft chuck
 high|silvereye linear call
 high|slow deep brown quail-like
 high|squark at 2500
+high|step-down 4k
 high|tet tet tet
 high|tick at 5khz
 high|torresian crow territorial call
