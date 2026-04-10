@@ -17,6 +17,7 @@ high|button-quail-like
 high|cbc piping
 high|cbc screech
 high|chup chup chup
+high|downwards peep-pew
 high|downwards pew
 high|down-then-down-again-or-flying-fox
 high|dusky moorhen
@@ -27,6 +28,7 @@ high|galah chet call
 high|goose-like honk
 high|grey butcherbird territorial song
 high|grey shrikethrush clear call
+high|heron-like croak
 high|high bbra-like
 high|high creak
 high|high cheep
@@ -40,6 +42,7 @@ high|kingfisher-like trill
 high|koel-like stilt-like
 high|laughing kookaburra laugh
 high|lewin's rail kek
+high|liquid downslur
 high|little bronze-cuckoo whistling call
 high|little friarbird call
 high|low bittern-like
@@ -50,6 +53,7 @@ high|low downward pew
 high|low fast piping
 high|low hoot
 high|low liquid preep
+high|low modulated chip
 high|low rising chirp
 high|low squark
 high|low whistle
@@ -82,8 +86,10 @@ high|scratchy rasp ibis-like
 high|shining bronze-cuckoo call
 high|shorebird-like mewing
 high|shorebird-like soft chuck
+high|short double cluck
 high|silvereye linear call
 high|slow deep brown quail-like
+high|spotless crake-like short churr
 high|squark at 2500
 high|step-down 4k
 high|tet tet tet
@@ -96,6 +102,7 @@ high|upslur
 high|upwards pew
 high|upwards trill
 high|weird warble
+high|whauw
 high|wheeuw
 high|whistle down then up
 high|whistle stepping up
