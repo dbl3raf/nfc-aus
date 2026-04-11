@@ -23,6 +23,7 @@ high|down-then-down-again-or-flying-fox
 high|dusky moorhen
 high|eastern barn owl-like
 high|fan-tailed cuckoo chireee
+high|fast downwards pew
 high|forest kingfisher high rolling call
 high|galah chet call
 high|goose-like honk
@@ -46,6 +47,7 @@ high|liquid downslur
 high|little bronze-cuckoo whistling call
 high|little friarbird call
 high|low bittern-like
+high|low brief chip
 high|low buff-banded rail-like
 high|low disyllabic
 high|low down-up
