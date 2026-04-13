@@ -1,7 +1,7 @@
 high|australian boobook boobook call
-high|australian wood duck
+high|australian wood duck identity call
 high|australian wood duck wingbeats
-high|eastern barn owl-like
+high|baillon's crake churr
 high|bittern-like whou
 high|black-fronted dotterel contact call
 high|brief pied butcherbird-like
@@ -91,7 +91,6 @@ high|shorebird-like soft chuck
 high|short double cluck
 high|silvereye linear call
 high|slow deep brown quail-like
-high|spotless crake-like short churr
 high|squark at 2500
 high|step-down 4k
 high|tet tet tet
