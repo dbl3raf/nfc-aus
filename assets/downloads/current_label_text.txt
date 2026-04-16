@@ -25,7 +25,7 @@ high|downwards peep-pew
 high|downwards pew
 high|down-then-down-again-or-flying-fox
 high|dusky moorhen
-high|eastern barn owl-like
+high|eastern barn owl screech
 high|fan-tailed cuckoo chireee
 high|fast downwards pew
 high|forest kingfisher high rolling call
@@ -39,6 +39,7 @@ high|high creak
 high|high cheep
 high|high chip
 high|high double pip
+high|high plick
 high|high twitter
 high|high whirring
 high|high-pitched up-down
@@ -65,6 +66,7 @@ high|low liquid preep
 high|low modulated chip
 high|low rising chirp
 high|low squark
+high|low up-down
 high|low whistle
 high|magpie goose honk
 high|masked lapwing
@@ -77,11 +79,14 @@ high|pacific black duck raehb
 high|pacific black duck wingbeats
 high|pacific koel coo-ee
 high|pacific koel keek
+high|parrot-like chatter
 high|petulant chuckle
 high|pied butcherbird day song
 high|pied stilt yelp
+high|plaintive whistle
 high|plumed whistling-duck whistle
 high|possum or tyto
+high|purple swamphen
 high|rallid-like screech
 high|rhythmic whew
 high|rising chirp
@@ -97,6 +102,7 @@ high|shorebird-like soft chuck
 high|short double cluck
 high|short double peep
 high|silvereye linear call
+high|silvereye-like
 high|slow deep brown quail-like
 high|squark at 2500
 high|step-down 4k
