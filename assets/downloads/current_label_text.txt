@@ -20,6 +20,7 @@ high|cbc piping
 high|cbc screech
 high|chup chup chup
 high|coot-like squark
+high|downwards double whistle
 high|downwards peep-pew
 high|downwards pew
 high|down-then-down-again-or-flying-fox
@@ -48,6 +49,7 @@ high|laughing kookaburra laugh
 high|lewin's rail kek
 high|liquid downslur
 high|little bronze-cuckoo whistling call
+high|little corella contact call
 high|little friarbird call
 high|low bittern-like
 high|low brief chip
