@@ -11,6 +11,7 @@ high|brown quail down-up
 high|brown quail one-short
 high|brown quail two-short
 high|brown quail-like low
+high|buff-banded rail-like but pure
 high|buff-banded rail preenk
 high|buff-banded rail squeak
 high|bush stone-curlew
@@ -21,12 +22,14 @@ high|cbc screech
 high|chup chup chup
 high|coot-like squark
 high|downwards double whistle
+high|downwards high buzz
 high|downwards peep-pew
 high|downwards pew
 high|down-then-down-again-or-flying-fox
 high|dusky moorhen
 high|eastern barn owl screech
 high|fan-tailed cuckoo chireee
+high|fan-tailed cuckoo trill
 high|fast downwards pew
 high|forest kingfisher high rolling call
 high|galah chet call
@@ -43,6 +46,7 @@ high|high plick
 high|high twitter
 high|high whirring
 high|high-pitched up-down
+high|hoarse quail-like
 high|jagged m
 high|kingfisher-like trill
 high|koel-like stilt-like
@@ -99,6 +103,7 @@ high|scratchy rasp ibis-like
 high|shining bronze-cuckoo call
 high|shorebird-like mewing
 high|shorebird-like soft chuck
+high|short 4k chip
 high|short double cluck
 high|short double peep
 high|silvereye linear call
@@ -106,6 +111,7 @@ high|silvereye-like
 high|slow deep brown quail-like
 high|squark at 2500
 high|step-down 4k
+high|sudden harmonic squawk
 high|tet tet tet
 high|tick at 5khz
 high|torresian crow territorial call
@@ -116,6 +122,7 @@ high|triple upward pew
 high|up-down warble at 4k
 high|upslur
 high|upwards pew
+high|upwards quack
 high|upwards trill
 high|weird warble
 high|whauw
