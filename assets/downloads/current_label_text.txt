@@ -20,6 +20,7 @@ high|button-quail-like
 high|cbc piping
 high|cbc screech
 high|chup chup chup
+high|churr
 high|coot-like squark
 high|downwards double whistle
 high|downwards high buzz
