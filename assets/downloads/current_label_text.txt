@@ -110,6 +110,7 @@ high|short double peep
 high|silvereye linear call
 high|silvereye-like
 high|slow deep brown quail-like
+high|slow bush-hen-like
 high|squark at 2500
 high|step-down 4k
 high|sudden harmonic squawk
