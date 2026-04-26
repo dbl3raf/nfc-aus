@@ -19,6 +19,7 @@ high|bush-hen piping
 high|button-quail-like
 high|cbc piping
 high|cbc screech
+high|3.5k chip
 high|chup chup chup
 high|churr
 high|coot-like squark
@@ -31,6 +32,7 @@ high|dusky moorhen
 high|eastern barn owl screech
 high|fan-tailed cuckoo chireee
 high|fan-tailed cuckoo trill
+high|fast downwards cheep
 high|fast downwards pew
 high|forest kingfisher high rolling call
 high|galah chet call
