@@ -128,6 +128,7 @@ high|upslur
 high|upwards pew
 high|upwards quack
 high|upwards trill
+high|waterbird-like rasp
 high|weird warble
 high|whauw
 high|wheeuw
