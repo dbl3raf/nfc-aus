@@ -63,14 +63,17 @@ high|low bittern-like
 high|low brief chip
 high|low buff-banded rail-like
 high|low cluck
+high|low crake-like
 high|low disyllabic
 high|low down-up
 high|low downward pew
+high|low downward chirrew
 high|low double cluck
 high|low fast piping
 high|low hoot
 high|low liquid preep
 high|low modulated chip
+high|low quip quip quip
 high|low rising chirp
 high|low squark
 high|low up-down
@@ -79,6 +82,7 @@ high|magpie goose honk
 high|masked lapwing
 high|moorhen-like screech
 high|moorhen-like squark
+high|moorhen or swamphen
 high|n-shaped whistle
 high|noisy miner
 high|noisy pitta two-note whistle
@@ -109,6 +113,7 @@ high|shorebird-like soft chuck
 high|short 4k chip
 high|short double cluck
 high|short double peep
+high|silver gull
 high|silvereye linear call
 high|silvereye-like
 high|slow deep brown quail-like
