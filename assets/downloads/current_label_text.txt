@@ -39,6 +39,7 @@ high|galah chet call
 high|goose-like honk
 high|grey butcherbird territorial song
 high|grey shrikethrush clear call
+high|grey shrikethrush-like
 high|heron-like croak
 high|high bbra-like
 high|high creak
@@ -51,6 +52,7 @@ high|high whirring
 high|high-pitched up-down
 high|hoarse quail-like
 high|jagged m
+high|kee-oh
 high|kingfisher-like trill
 high|koel-like stilt-like
 high|laughing kookaburra laugh
