@@ -28,6 +28,8 @@ high|downwards high buzz
 high|downwards peep-pew
 high|downwards pew
 high|down-then-down-again-or-flying-fox
+high|duck sp flight call
+high|duck sp wingbeats
 high|dusky moorhen
 high|eastern barn owl screech
 high|fan-tailed cuckoo chireee
@@ -75,6 +77,7 @@ high|low fast piping
 high|low hoot
 high|low liquid preep
 high|low modulated chip
+high|low plaintive whistle
 high|low quip quip quip
 high|low rising chirp
 high|low squark
@@ -105,6 +108,7 @@ high|rhythmic whew
 high|rising chirp
 high|rock dove advertising call
 high|rufous whistler single-note call
+high|russet-tailed thrush-like
 high|sacred kingfisher staccato call
 high|sacred kingfisher-like soft call
 high|sahul brush cuckoo churrrt
