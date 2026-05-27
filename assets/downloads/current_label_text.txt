@@ -1,4 +1,5 @@
 high|australian boobook boobook call
+high|australian wood duck cluck
 high|australian wood duck identity call
 high|australian wood duck wingbeats
 high|baillon's crake churr
@@ -91,6 +92,7 @@ high|moorhen or swamphen
 high|n-shaped whistle
 high|noisy miner
 high|noisy pitta two-note whistle
+high|pacific black duck harsher quack
 high|pacific black duck raehb
 high|pacific black duck wingbeats
 high|pacific koel coo-ee
@@ -135,6 +137,7 @@ high|torresian crow warble
 high|triple clack
 high|triple peep
 high|triple upward pew
+high|unknown
 high|up-down warble at 4k
 high|upslur
 high|upwards pew
@@ -155,6 +158,8 @@ high|wonga pigeon-like
 zero|asian house gecko
 zero|common brushtail possum
 zero|dog bark
+zero|dog growl
+zero|dog howl
 zero|domestic cat
 zero|flying-fox sp
 zero|human voice
