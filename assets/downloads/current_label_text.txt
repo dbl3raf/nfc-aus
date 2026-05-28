@@ -17,6 +17,7 @@ high|buff-banded rail preenk
 high|buff-banded rail squeak
 high|bush stone-curlew
 high|bush-hen piping
+high|bush-hen-like short piping
 high|button-quail-like
 high|cbc piping
 high|cbc screech
