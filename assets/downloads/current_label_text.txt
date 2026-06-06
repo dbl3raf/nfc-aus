@@ -1,3 +1,7 @@
+high|bush stone-curlew
+high|masked lapwing
+high|silvereye linear call
+
 high|australian boobook boobook call
 high|australian wood duck cluck
 high|australian wood duck identity call
@@ -34,6 +38,7 @@ high|duck sp flight call
 high|duck sp wingbeats
 high|dusky moorhen
 high|eastern barn owl screech
+high|eastern barn owl-like screech
 high|fan-tailed cuckoo chireee
 high|fan-tailed cuckoo trill
 high|fast downwards cheep
@@ -107,6 +112,7 @@ high|plaintive whistle
 high|plumed whistling-duck whistle
 high|possum or tyto
 high|purple swamphen
+high|quark
 high|rallid-like screech
 high|rhythmic whew
 high|rising chirp
