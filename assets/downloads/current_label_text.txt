@@ -1,7 +1,3 @@
-high|bush stone-curlew
-high|masked lapwing
-high|silvereye linear call
-
 high|australian boobook boobook call
 high|australian wood duck cluck
 high|australian wood duck identity call
