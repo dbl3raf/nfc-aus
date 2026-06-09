@@ -137,6 +137,7 @@ high|silvereye-like
 high|slow deep brown quail-like
 high|slow bush-hen-like
 high|squark at 2500
+high|squeak
 high|step-down 4k
 high|sulphur-crested cockatoo screech
 high|sudden harmonic squawk
