@@ -154,6 +154,8 @@ high|upslur
 high|upwards pew
 high|upwards quack
 high|upwards trill
+high|wandering whistling duck flight call
+high|wandering whistling duck wingbeats
 high|waterbird-like rasp
 high|weird warble
 high|whauw
