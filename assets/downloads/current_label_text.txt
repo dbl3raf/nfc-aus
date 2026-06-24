@@ -2,6 +2,8 @@ high|bush stone-curlew
 high|masked lapwing
 high|silvereye linear call
 high|torresian crow territorial call
+high|laughing kookaburra laugh
+high|noisy miner
 
 high|australian boobook boobook call
 high|australian magpie call
@@ -130,6 +132,7 @@ high|scratchy rasp ibis-like
 high|shining bronze-cuckoo call
 high|shorebird-like mewing
 high|shorebird-like soft chuck
+high|short 4k buzz
 high|short 4k chip
 high|short double cluck
 high|short double peep
