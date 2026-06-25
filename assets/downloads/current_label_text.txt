@@ -104,6 +104,7 @@ high|moorhen-like squark
 high|moorhen or swamphen
 high|n-shaped whistle
 high|noisy miner
+high|noisy miner-like double note
 high|noisy pitta two-note whistle
 high|pacific black duck harsher quack
 high|pacific black duck raehb
