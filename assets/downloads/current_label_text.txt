@@ -80,6 +80,7 @@ high|little friarbird call
 high|low bittern-like
 high|low brief chip
 high|low buff-banded rail-like
+high|low chirr-ee-uu
 high|low cluck
 high|low crake-like
 high|low disyllabic
@@ -181,5 +182,6 @@ zero|dog growl
 zero|dog howl
 zero|domestic cat
 zero|flying-fox sp
+zero|frog sp
 zero|human voice
 zero|insect
