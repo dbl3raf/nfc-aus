@@ -1,6 +1,7 @@
 high|bush stone-curlew
 high|masked lapwing
 high|silvereye linear call
+high|shining bronze-cuckoo call
 high|torresian crow territorial call
 high|laughing kookaburra laugh
 high|noisy miner
