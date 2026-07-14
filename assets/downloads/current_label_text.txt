@@ -5,6 +5,7 @@ high|shining bronze-cuckoo call
 high|torresian crow territorial call
 high|laughing kookaburra laugh
 high|noisy miner
+high|pied butcherbird day song
 
 high|australian boobook boobook call
 high|australian magpie call
@@ -147,6 +148,7 @@ high|slow bush-hen-like
 high|squark at 2500
 high|squeak
 high|step-down 4k
+high|stilt-like yelp
 high|sulphur-crested cockatoo screech
 high|sudden harmonic squawk
 high|tet tet tet
