@@ -1,11 +1,16 @@
-high|bush stone-curlew
-high|masked lapwing
+EXCLUDE:
+PRESENT|Masked Lapwing
+PRESENT|Bush Stone-curlew
+PRESENT|Torresian Crow
+PRESENT|Laughing Kookaburra
+PRESENT|Noisy Miner
+PRESENT|Willie Wagtail
+PRESENT|Pied Butcherbird
+
+
 high|silvereye linear call
 high|shining bronze-cuckoo call
-high|torresian crow territorial call
-high|laughing kookaburra laugh
-high|noisy miner
-high|pied butcherbird day song
+
 
 high|australian boobook boobook call
 high|australian magpie call
@@ -35,6 +40,7 @@ high|3.5k chip
 high|chup chup chup
 high|churr
 high|coot-like squark
+high|curlew-like
 high|downwards double whistle
 high|downwards high buzz
 high|downwards peep-pew
@@ -72,6 +78,7 @@ high|jagged m
 high|kee-oh
 high|kingfisher-like trill
 high|koel-like stilt-like
+high|koel-keek-like high
 high|laughing kookaburra laugh
 high|lewin's rail kek
 high|liquid downslur
@@ -178,6 +185,7 @@ high|whistler-like short
 high|willie wagtail song
 high|wingbeats
 high|wonga pigeon-like
+high|ytbc-like
 zero|asian house gecko
 zero|common brushtail possum
 zero|dog bark
