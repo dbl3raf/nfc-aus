@@ -11,11 +11,11 @@ PRESENT|Pied Butcherbird
 high|silvereye linear call
 high|shining bronze-cuckoo call
 
-
 high|australian boobook boobook call
 high|australian magpie call
 high|australian wood duck cluck
 high|australian wood duck identity call
+high|australian wood duck or cat
 high|australian wood duck wingbeats
 high|baillon's crake churr
 high|bittern-like whou
@@ -40,6 +40,7 @@ high|3.5k chip
 high|chup chup chup
 high|churr
 high|coot-like squark
+high|cuckoo-like trill
 high|curlew-like
 high|downwards double whistle
 high|downwards high buzz
@@ -57,6 +58,7 @@ high|fan-tailed cuckoo chireee
 high|fan-tailed cuckoo trill
 high|fast downwards cheep
 high|fast downwards pew
+high|finch-like chip
 high|forest kingfisher high rolling call
 high|galah chet call
 high|goose-like honk
@@ -81,6 +83,7 @@ high|koel-like stilt-like
 high|koel-keek-like high
 high|laughing kookaburra laugh
 high|lewin's rail kek
+high|lewin's rail-like kek
 high|liquid downslur
 high|little bronze-cuckoo whistling call
 high|little corella contact call
@@ -106,6 +109,7 @@ high|low quip quip quip
 high|low rising chirp
 high|low squark
 high|low up-down
+high|low wail
 high|low whistle
 high|magpie goose honk
 high|masked lapwing
@@ -124,6 +128,7 @@ high|pacific koel keek
 high|parrot-like chatter
 high|petulant chuckle
 high|pied butcherbird day song
+high|pied butcherbird-like
 high|pied stilt yelp
 high|plaintive whistle
 high|plumed whistling-duck whistle
@@ -132,6 +137,7 @@ high|purple swamphen
 high|quark
 high|rallid-like screech
 high|rhythmic whew
+high|ringing double note
 high|rising chirp
 high|rock dove advertising call
 high|rufous whistler single-note call
@@ -152,6 +158,7 @@ high|silvereye linear call
 high|silvereye-like
 high|slow deep brown quail-like
 high|slow bush-hen-like
+high|sooty owl trill
 high|squark at 2500
 high|squeak
 high|step-down 4k
@@ -196,3 +203,10 @@ zero|flying-fox sp
 zero|frog sp
 zero|human voice
 zero|insect
+
+
+
+VANUATU
+high|downwards pew
+high|soft piping
+zero|flying-fox sp
