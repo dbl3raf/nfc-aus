@@ -28,6 +28,7 @@ high|brown quail one-short
 high|brown quail two-short
 high|brown quail-like low
 high|buff-banded rail-like but pure
+high|buff-banded rail-like but hoarse
 high|buff-banded rail preenk
 high|buff-banded rail squeak
 high|bush stone-curlew
@@ -37,6 +38,7 @@ high|button-quail-like
 high|cbc piping
 high|cbc screech
 high|3.5k chip
+high|cheerful chirping
 high|chup chup chup
 high|churr
 high|coot-like squark
@@ -51,11 +53,14 @@ high|duck sp flight call
 high|duck sp wingbeats
 high|duck sp harsher quack flight call
 high|duck sp harsher quack wingbeats
+high|duck sp short quack flight call
+high|duck sp short quack wingbeats
 high|dusky moorhen
 high|eastern barn owl screech
 high|eastern barn owl-like screech
 high|fan-tailed cuckoo chireee
 high|fan-tailed cuckoo trill
+high|fan-tailed cuckoo-like plaintive whistle
 high|fast downwards cheep
 high|fast downwards pew
 high|finch-like chip
