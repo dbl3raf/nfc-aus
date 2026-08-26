@@ -32,6 +32,7 @@ high|buff-banded rail-like but hoarse
 high|buff-banded rail preenk
 high|buff-banded rail squeak
 high|bush stone-curlew
+high|bush stone-curlew-like
 high|bush-hen piping
 high|bush-hen-like short piping
 high|button-quail-like
@@ -39,9 +40,11 @@ high|cbc piping
 high|cbc screech
 high|3.5k chip
 high|cheerful chirping
+high|chi-chu
 high|chup chup chup
 high|churr
 high|coot-like squark
+high|corella-like wail
 high|cuckoo-like trill
 high|curlew-like
 high|downwards double whistle
