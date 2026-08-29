@@ -8,6 +8,7 @@ PRESENT|Willie Wagtail
 PRESENT|Pied Butcherbird
 
 
+high|sacred kingfisher staccato call
 high|silvereye linear call
 high|shining bronze-cuckoo call
 
@@ -81,8 +82,10 @@ high|high chip
 high|high double pip
 high|high plick
 high|high twitter
+high|high wail
 high|high whirring
 high|high-pitched up-down
+high|high up-then-up
 high|hoarse quail-like
 high|jagged m
 high|kee-oh
@@ -134,6 +137,7 @@ high|pacific black duck wingbeats
 high|pacific koel coo-ee
 high|pacific koel keek
 high|parrot-like chatter
+high|parrot-like anxiety call
 high|petulant chuckle
 high|pied butcherbird day song
 high|pied butcherbird-like
