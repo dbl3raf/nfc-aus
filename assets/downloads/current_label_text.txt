@@ -78,6 +78,7 @@ high|heron-like croak
 high|high bbra-like
 high|high creak
 high|high cheep
+high|high chew chew chew
 high|high chip
 high|high double pip
 high|high plick
