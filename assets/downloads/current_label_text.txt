@@ -9,7 +9,7 @@ PRESENT|Pied Butcherbird
 
 
 high|sacred kingfisher staccato call
-high|silvereye linear call
+high|silvereye call
 high|shining bronze-cuckoo call
 
 high|australian boobook boobook call
@@ -48,6 +48,7 @@ high|coot-like squark
 high|corella-like wail
 high|cuckoo-like trill
 high|curlew-like
+high|double cluck
 high|downwards double whistle
 high|downwards high buzz
 high|downwards peep-pew
@@ -94,6 +95,7 @@ high|kingfisher-like trill
 high|koel-like stilt-like
 high|koel-keek-like high
 high|laughing kookaburra laugh
+high|leaden flycatcher song
 high|lewin's rail kek
 high|lewin's rail-like kek
 high|liquid downslur
@@ -121,6 +123,7 @@ high|low quip quip quip
 high|low rising chirp
 high|low squark
 high|low up-down
+high|low upslur
 high|low wail
 high|low whistle
 high|magpie goose honk
@@ -143,6 +146,7 @@ high|petulant chuckle
 high|pied butcherbird day song
 high|pied butcherbird-like
 high|pied stilt yelp
+high|pippy-yew pippy-yew pippy-yew
 high|plaintive whistle
 high|plumed whistling-duck whistle
 high|possum or tyto
@@ -151,6 +155,7 @@ high|quark
 high|rallid-like screech
 high|rhythmic whew
 high|ringing double note
+high|ringing single note
 high|rising chirp
 high|rock dove advertising call
 high|rufous whistler single-note call
@@ -185,6 +190,7 @@ high|torresian crow warble
 high|triple clack
 high|triple peep
 high|triple upward pew
+high|tyto-like screech
 high|unknown
 high|up-down warble at 4k
 high|upslur
@@ -216,6 +222,7 @@ zero|flying-fox sp
 zero|frog sp
 zero|human voice
 zero|insect
+zero|microbat
 
 
 
