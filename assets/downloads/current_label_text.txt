@@ -8,12 +8,14 @@ PRESENT|Willie Wagtail
 PRESENT|Pied Butcherbird
 
 
+high|brown honeyeater pew pew pew
 high|sacred kingfisher staccato call
 high|silvereye call
 high|shining bronze-cuckoo call
 
 high|australian boobook boobook call
 high|australian magpie call
+high|australian magpie song
 high|australian wood duck cluck
 high|australian wood duck identity call
 high|australian wood duck or cat
@@ -21,9 +23,12 @@ high|australian wood duck wingbeats
 high|baillon's crake churr
 high|bittern-like whou
 high|black-fronted dotterel contact call
+high|black-fronted dotterel-like trill
+high|blue-faced honeyeater dawn call
 high|brief pied butcherbird-like
 high|brown honeyeater pew pew pew
 high|brown honeyeater song
+high|brown honeyeater-like pew pew
 high|brown quail down-up
 high|brown quail one-short
 high|brown quail two-short
@@ -42,6 +47,7 @@ high|cbc screech
 high|3.5k chip
 high|cheerful chirping
 high|chi-chu
+high|chicken-like gobble
 high|chup chup chup
 high|churr
 high|coot-like squark
@@ -49,6 +55,7 @@ high|corella-like wail
 high|cuckoo-like trill
 high|curlew-like
 high|double cluck
+high|downslur
 high|downwards double whistle
 high|downwards high buzz
 high|downwards peep-pew
@@ -56,6 +63,8 @@ high|downwards pew
 high|down-then-down-again-or-flying-fox
 high|duck sp flight call
 high|duck sp wingbeats
+high|duck sp triple cluck wingbeats
+high|duck sp triple cluck flight call
 high|duck sp harsher quack flight call
 high|duck sp harsher quack wingbeats
 high|duck sp short quack flight call
@@ -98,6 +107,7 @@ high|laughing kookaburra laugh
 high|leaden flycatcher song
 high|lewin's rail kek
 high|lewin's rail-like kek
+high|liquid chirru
 high|liquid downslur
 high|little bronze-cuckoo whistling call
 high|little corella contact call
@@ -153,6 +163,7 @@ high|possum or tyto
 high|purple swamphen
 high|quark
 high|rallid-like screech
+high|repeated rising piping
 high|rhythmic whew
 high|ringing double note
 high|ringing single note
@@ -184,11 +195,13 @@ high|stilt-like yelp
 high|sulphur-crested cockatoo screech
 high|sudden harmonic squawk
 high|tet tet tet
+high|thin upwards whistle
 high|tick at 5khz
 high|torresian crow territorial call
 high|torresian crow warble
 high|triple clack
 high|triple peep
+high|triple step-up
 high|triple upward pew
 high|tyto-like screech
 high|unknown
@@ -200,6 +213,7 @@ high|upwards trill
 high|wandering whistling duck flight call
 high|wandering whistling duck wingbeats
 high|waterbird-like rasp
+high|waterbird-like squark
 high|weird warble
 high|whauw
 high|wheeuw
