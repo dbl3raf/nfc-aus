@@ -6,10 +6,16 @@ PRESENT|Laughing Kookaburra
 PRESENT|Noisy Miner
 PRESENT|Willie Wagtail
 PRESENT|Pied Butcherbird
+PRESENT|Pacific Koel coo-ee
+PRESENT|Fan-tailed Cuckoo trill
 
 
 high|brown honeyeater pew pew pew
+high|cbc piping
+high|cbc screech
+high|pacific koel keek
 high|sacred kingfisher staccato call
+high|sahul brush cuckoo churrrt
 high|silvereye call
 high|shining bronze-cuckoo call
 
@@ -56,7 +62,9 @@ high|cuckoo-like trill
 high|curlew-like
 high|currawong-like
 high|double cluck
+high|double screech
 high|downslur
+high|downwards churr
 high|downwards double whistle
 high|downwards high buzz
 high|downwards peep-pew
@@ -74,6 +82,7 @@ high|dusky moorhen
 high|eastern barn owl screech
 high|eastern barn owl-like screech
 high|fan-tailed cuckoo chireee
+high|fan-tailed cuckoo chireee-like
 high|fan-tailed cuckoo trill
 high|fan-tailed cuckoo-like plaintive whistle
 high|fast downwards cheep
@@ -99,6 +108,8 @@ high|high whirring
 high|high-pitched up-down
 high|high up-then-up
 high|hoarse quail-like
+high|horsfield's bronze-cuckoo call
+high|hurried wheeze
 high|jagged m
 high|kee-oh
 high|kingfisher-like trill
@@ -144,9 +155,11 @@ high|moorhen-like screech
 high|moorhen-like squark
 high|moorhen or swamphen
 high|n-shaped whistle
+high|nankeen night heron call
 high|noisy miner
 high|noisy miner-like double note
 high|noisy pitta two-note whistle
+high|noisy pitta-like
 high|pacific black duck harsher quack
 high|pacific black duck raehb
 high|pacific black duck wingbeats
@@ -199,6 +212,7 @@ high|stilt-like yelp
 high|sulphur-crested cockatoo screech
 high|sudden harmonic squawk
 high|tet tet tet
+high|thin double note
 high|thin upwards whistle
 high|tick at 5khz
 high|torresian crow territorial call
