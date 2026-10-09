@@ -109,6 +109,7 @@ high|high-pitched up-down
 high|high up-then-up
 high|hoarse quail-like
 high|horsfield's bronze-cuckoo call
+high|horsfield's bronze-cuckoo trill
 high|hurried wheeze
 high|jagged m
 high|kee-oh
@@ -119,7 +120,6 @@ high|laughing kookaburra laugh
 high|leaden flycatcher song
 high|lewin's rail kek
 high|lewin's rail-like kek
-high|liquid chirru
 high|liquid downslur
 high|liquid semitone step down
 high|little bronze-cuckoo whistling call
@@ -241,12 +241,14 @@ high|whistle down then up
 high|whistle stepping up
 high|whistler-like down then upslur
 high|whistler-like short
+high|white-throated nightjar laugh
 high|willie wagtail song
 high|wingbeats
 high|wonga pigeon-like
 high|ytbc-like
 zero|asian house gecko
 zero|common brushtail possum
+zero|dainty tree frog
 zero|dog bark
 zero|dog growl
 zero|dog howl
