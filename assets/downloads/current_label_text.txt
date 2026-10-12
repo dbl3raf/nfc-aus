@@ -11,6 +11,7 @@ PRESENT|Fan-tailed Cuckoo trill
 
 
 high|brown honeyeater pew pew pew
+high|bush-hen piping
 high|cbc piping
 high|cbc screech
 high|pacific koel keek
@@ -64,6 +65,7 @@ high|currawong-like
 high|double cluck
 high|double screech
 high|downslur
+high|downwards chew
 high|downwards churr
 high|downwards double whistle
 high|downwards high buzz
@@ -94,6 +96,7 @@ high|goose-like honk
 high|grey butcherbird territorial song
 high|grey shrikethrush clear call
 high|grey shrikethrush-like
+high|heron-like craw
 high|heron-like croak
 high|high bbra-like
 high|high creak
@@ -101,6 +104,7 @@ high|high cheep
 high|high chew chew chew
 high|high chip
 high|high double pip
+high|high nasal honk
 high|high plick
 high|high twitter
 high|high wail
@@ -129,6 +133,7 @@ high|little friarbird call
 high|low bittern-like
 high|low brief chip
 high|low buff-banded rail-like
+high|low loud bush-hen-like
 high|low chirr-ee-uu
 high|low cluck
 high|low crake-like
@@ -139,6 +144,7 @@ high|low downward chirrew
 high|low double cluck
 high|low fast piping
 high|low hoot
+high|low kyyew
 high|low liquid preep
 high|low modulated chip
 high|low plaintive whistle
@@ -160,6 +166,7 @@ high|noisy miner
 high|noisy miner-like double note
 high|noisy pitta two-note whistle
 high|noisy pitta-like
+high|pacific black duck decrescendo call
 high|pacific black duck harsher quack
 high|pacific black duck raehb
 high|pacific black duck wingbeats
@@ -215,6 +222,7 @@ high|tet tet tet
 high|thin double note
 high|thin upwards whistle
 high|tick at 5khz
+high|tinny clack
 high|torresian crow territorial call
 high|torresian crow warble
 high|triple clack
