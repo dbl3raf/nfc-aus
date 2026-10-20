@@ -15,6 +15,7 @@ high|bush-hen piping
 high|cbc piping
 high|cbc screech
 high|pacific koel keek
+high|pacific koel wurroo
 high|sacred kingfisher staccato call
 high|sahul brush cuckoo churrrt
 high|silvereye call
@@ -150,6 +151,7 @@ high|low modulated chip
 high|low plaintive whistle
 high|low quip quip quip
 high|low rising chirp
+high|low slow koel keek-like
 high|low squark
 high|low up-down
 high|low upslur
@@ -159,6 +161,7 @@ high|magpie goose honk
 high|masked lapwing
 high|moorhen-like screech
 high|moorhen-like squark
+high|moorhen-like upside-down-v squeal
 high|moorhen or swamphen
 high|n-shaped whistle
 high|nankeen night heron call
@@ -170,8 +173,10 @@ high|pacific black duck decrescendo call
 high|pacific black duck harsher quack
 high|pacific black duck raehb
 high|pacific black duck wingbeats
+high|pacific koel baza-like
 high|pacific koel coo-ee
 high|pacific koel keek
+high|pacific koel wurroo
 high|parrot-like chatter
 high|parrot-like anxiety call
 high|petulant chuckle
@@ -187,6 +192,7 @@ high|purple swamphen
 high|quark
 high|rallid-like screech
 high|repeated rising piping
+high|rhythmic chatter
 high|rhythmic whew
 high|ringing double note
 high|ringing single note
@@ -197,6 +203,8 @@ high|russet-tailed thrush-like
 high|sacred kingfisher staccato call
 high|sacred kingfisher-like soft call
 high|sahul brush cuckoo churrrt
+high|sahul brush cuckoo churrrt with trill
+high|sahul brush cuckoo descending call
 high|scratchy rasp ibis-like
 high|shining bronze-cuckoo call
 high|shorebird-like mewing
@@ -206,7 +214,7 @@ high|short 4k chip
 high|short double cluck
 high|short double peep
 high|silver gull
-high|silvereye linear call
+high|silvereye call
 high|silvereye-like
 high|slow deep brown quail-like
 high|slow bush-hen-like
