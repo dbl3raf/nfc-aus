@@ -31,6 +31,7 @@ high|australian wood duck wingbeats
 high|baillon's crake churr
 high|bittern-like whou
 high|black-fronted dotterel contact call
+high|black-fronted dotterel-like plink
 high|black-fronted dotterel-like trill
 high|blue-faced honeyeater dawn call
 high|brief pied butcherbird-like
@@ -92,6 +93,7 @@ high|fast downwards cheep
 high|fast downwards pew
 high|finch-like chip
 high|forest kingfisher high rolling call
+high|four-note low warble
 high|galah chet call
 high|goose-like honk
 high|grey butcherbird territorial song
@@ -232,6 +234,7 @@ high|thin double note
 high|thin upwards whistle
 high|tick at 5khz
 high|tinny clack
+high|tinny screech
 high|torresian crow territorial call
 high|torresian crow warble
 high|triple clack
@@ -248,6 +251,7 @@ high|upwards quack
 high|upwards trill
 high|wandering whistling duck flight call
 high|wandering whistling duck wingbeats
+high|wandering whistling duck-like trill
 high|waterbird-like rasp
 high|waterbird-like squark
 high|waterbird-like staccato
