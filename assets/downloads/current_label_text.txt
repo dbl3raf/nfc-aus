@@ -93,6 +93,7 @@ high|fast downwards cheep
 high|fast downwards pew
 high|finch-like chip
 high|forest kingfisher high rolling call
+high|forest kingfisher-like flat trill
 high|four-note low warble
 high|galah chet call
 high|goose-like honk
