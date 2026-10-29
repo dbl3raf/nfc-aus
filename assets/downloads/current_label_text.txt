@@ -48,11 +48,13 @@ high|buff-banded rail preenk
 high|buff-banded rail squeak
 high|bush stone-curlew
 high|bush stone-curlew-like
+high|bush-hen braying
 high|bush-hen piping
 high|bush-hen-like short piping
 high|button-quail-like
 high|cbc piping
 high|cbc screech
+high|cbc-like chatter
 high|3.5k chip
 high|cheerful chirping
 high|chi-chu
@@ -73,6 +75,7 @@ high|downwards double whistle
 high|downwards high buzz
 high|downwards peep-pew
 high|downwards pew
+high|downwards whistle
 high|down-then-down-again-or-flying-fox
 high|duck sp flight call
 high|duck sp wingbeats
@@ -97,11 +100,13 @@ high|forest kingfisher-like flat trill
 high|four-note low warble
 high|galah chet call
 high|goose-like honk
+high|gremlin chatter
 high|grey butcherbird territorial song
 high|grey shrikethrush clear call
 high|grey shrikethrush-like
 high|heron-like craw
 high|heron-like croak
+high|heron-like scold
 high|high bbra-like
 high|high creak
 high|high cheep
@@ -190,10 +195,12 @@ high|pied stilt yelp
 high|pippy-yew pippy-yew pippy-yew
 high|plaintive whistle
 high|plumed whistling-duck whistle
+high|plumed whistling-duck wingbeats
 high|possum or tyto
 high|purple swamphen
 high|quark
 high|rallid-like screech
+high|rattle and creak
 high|repeated rising piping
 high|rhythmic chatter
 high|rhythmic whew
@@ -259,6 +266,7 @@ high|waterbird-like staccato
 high|weird warble
 high|whauw
 high|wheeuw
+high|wheeuw-whoo
 high|whistle at 4.5k
 high|whistle down then up
 high|whistle stepping up
