@@ -63,6 +63,7 @@ high|chup chup chup
 high|churr
 high|coot-like squark
 high|corella-like wail
+high|cuckoo-like churr
 high|cuckoo-like trill
 high|curlew-like
 high|currawong-like
@@ -260,6 +261,7 @@ high|upwards trill
 high|wandering whistling duck flight call
 high|wandering whistling duck wingbeats
 high|wandering whistling duck-like trill
+high|waterbird-like congested rasp
 high|waterbird-like rasp
 high|waterbird-like squark
 high|waterbird-like staccato
