@@ -11,6 +11,7 @@ PRESENT|Fan-tailed Cuckoo trill
 
 
 high|brown honeyeater pew pew pew
+high|brown quail two-short
 high|bush-hen piping
 high|cbc piping
 high|cbc screech
@@ -51,6 +52,7 @@ high|bush stone-curlew-like
 high|bush-hen braying
 high|bush-hen piping
 high|bush-hen-like short piping
+high|bush-hen-like single note
 high|button-quail-like
 high|cbc piping
 high|cbc screech
@@ -255,9 +257,12 @@ high|unknown
 high|up-down warble at 4k
 high|upside-down-v squark
 high|upslur
+high|upslured sharp preep
 high|upwards pew
 high|upwards quack
 high|upwards trill
+high|very brief prip
+high|very high squeak
 high|wandering whistling duck flight call
 high|wandering whistling duck wingbeats
 high|wandering whistling duck-like trill
