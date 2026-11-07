@@ -43,8 +43,9 @@ high|brown quail down-up
 high|brown quail one-short
 high|brown quail two-short
 high|brown quail-like low
-high|buff-banded rail-like but pure
+high|buff-banded rail-like but downward
 high|buff-banded rail-like but hoarse
+high|buff-banded rail-like but pure
 high|buff-banded rail preenk
 high|buff-banded rail squeak
 high|bush stone-curlew
