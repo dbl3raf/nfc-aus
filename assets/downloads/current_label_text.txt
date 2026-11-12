@@ -125,6 +125,7 @@ high|high whirring
 high|high-pitched up-down
 high|high up-then-up
 high|hoarse quail-like
+high|hoarse upslur
 high|horsfield's bronze-cuckoo call
 high|horsfield's bronze-cuckoo trill
 high|hurried wheeze
@@ -220,6 +221,7 @@ high|sahul brush cuckoo ascending whistle
 high|sahul brush cuckoo churrrt
 high|sahul brush cuckoo churrrt with trill
 high|sahul brush cuckoo descending call
+high|sahul cicadabird fast song
 high|scratchy rasp ibis-like
 high|shining bronze-cuckoo call
 high|shorebird-like mewing
